@@ -84,9 +84,9 @@ if __name__ == "__main__":
 
 """
 Encrypting data: {"username":"*****","key":"*****"}
-Encrypted data: U2FsdGVkX19xADSwuQRnlh8FN7Hqt0vAlpFOD5/Pn3wx5S4endZ2lI03fdaZdLeG
+Encrypted data: U2FsdGVkX1/+BiDOgFOWTk+nydmSuSHgesi1hPGKm+Z9Yf1Fn3wyIg5mTRBETtzsILftvA0955+Wu9OujB3g1j66I2/0LF7OASWOK8pRmNI=
 Encrypted data written to: ./sample_data/kaggle.json.enc
-Decrypting data: U2FsdGVkX19xADSwuQRnlh8FN7Hqt0vAlpFOD5/Pn3wx5S4endZ2lI03fdaZdLeG
+Decrypting data: U2FsdGVkX1/+BiDOgFOWTk+nydmSuSHgesi1hPGKm+Z9Yf1Fn3wyIg5mTRBETtzsILftvA0955+Wu9OujB3g1j66I2/0LF7OASWOK8pRmNI=
 Decrypted data: {username:*****,key:*****}
 Decrypted data written to: ./sample_data/kaggle.json
 """
